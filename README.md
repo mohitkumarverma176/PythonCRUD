@@ -1,2 +1,2 @@
 # PythonCRUD
-Python program for CRUD operation using MySQL
+Python program for CRUD operation in MySQL
